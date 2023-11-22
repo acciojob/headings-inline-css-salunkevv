@@ -1,1 +1,19 @@
 /*  your css code here. If applicable */
+.me>h1{
+	color:#2a7ae2;
+}
+.me>h2{
+	color:#f44336;
+}
+.me>h3{
+	color:#4caf50
+}
+.me>h4{
+	color:#ff9800
+}
+.me>h5{
+	color:#607d8b
+}
+.me>h6{
+	color:#ffeb3b
+}
